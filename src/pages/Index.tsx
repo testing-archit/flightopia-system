@@ -45,13 +45,13 @@ const testimonials = [
   {
     name: 'Sarah Johnson',
     role: 'Travel Manager',
-    comment: 'The object-oriented design of this system makes it incredibly flexible for our airline's needs. We've seamlessly integrated it with our existing infrastructure.',
+    comment: 'The object-oriented design of this system makes it incredibly flexible for our airline\'s needs. We\'ve seamlessly integrated it with our existing infrastructure.',
     rating: 5,
   },
   {
     name: 'Michael Chen',
     role: 'Software Architect',
-    comment: 'As a developer, I appreciate the clean architecture and modularity. It's a masterclass in object-oriented programming principles.',
+    comment: 'As a developer, I appreciate the clean architecture and modularity. It\'s a masterclass in object-oriented programming principles.',
     rating: 5,
   },
   {
